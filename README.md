@@ -80,6 +80,9 @@ The UI is designed to be **simple and user-friendly**, with the following featur
 
 Once the user has selected an action (search, add, update, or delete), the relevant SQL command is executed, and the results are displayed accordingly.
 
+![image](https://github.com/user-attachments/assets/e1d7dcd3-917e-449d-83ae-05889f213b66)
+
+
 ---
 
 ## Requirements
